@@ -4,6 +4,6 @@
 - browser-sync
 
 ### To Execute
-'''
+```
 browser-sync
-'''
+```
